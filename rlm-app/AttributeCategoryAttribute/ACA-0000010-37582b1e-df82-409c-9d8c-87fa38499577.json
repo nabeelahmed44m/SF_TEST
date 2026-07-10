@@ -1,0 +1,37 @@
+{
+  "Platform": "RLM",
+  "ObjectName": "AttributeCategoryAttribute",
+  "Language": "English",
+  "ExternalParameter": "",
+  "rlmData": {
+    "AttributeCategory": {
+      "attributes": {
+        "type": "AttributeCategory",
+        "url": "/services/data/v62.0/sobjects/AttributeCategory/0v3g80000008U91AAE"
+      },
+      "Name": "Storage"
+    },
+    "AttributeCategoryId": "0v3g80000008U91AAE",
+    "AttributeDefinition": {
+      "attributes": {
+        "type": "AttributeDefinition",
+        "url": "/services/data/v62.0/sobjects/AttributeDefinition/0tjg8000000Cj3FAAS"
+      },
+      "Name": "Storage"
+    },
+    "AttributeDefinitionId": "0tjg8000000Cj3FAAS",
+    "CreatedById": "005g8000005HwEPAA0",
+    "CreatedDate": "2026-06-30T12:10:05.000+0000",
+    "GlobalKey__c": "37582b1e-df82-409c-9d8c-87fa38499577",
+    "Id": "11Eg8000000WWcoEAG",
+    "IsDeleted": false,
+    "LastModifiedById": "005g8000005HwEPAA0",
+    "LastModifiedDate": "2026-07-09T01:37:29.000+0000",
+    "LastReferencedDate": "2026-07-09T01:37:29.000+0000",
+    "LastViewedDate": "2026-07-09T01:37:29.000+0000",
+    "Name": "ACA-0000010",
+    "OwnerId": "005g8000005HwEPAA0",
+    "SystemModstamp": "2026-07-09T01:37:29.000+0000",
+    "type": "AttributeCategoryAttribute"
+  }
+}

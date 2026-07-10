@@ -1,0 +1,24 @@
+{
+  "Platform": "RLM",
+  "ObjectName": "AttributeCategory",
+  "Language": "English",
+  "Category": "PCM",
+  "ExternalParameter": "",
+  "rlmData": {
+    "Code": "PR098744",
+    "CreatedById": "005g8000005HwEPAA0",
+    "CreatedDate": "2026-06-30T12:10:05.000+0000",
+    "Description": "",
+    "GlobalKey__c": "af6c9c81-e398-49c8-901c-d728d6985837",
+    "Id": "0v3g80000008U8zAAE",
+    "IsDeleted": false,
+    "LastModifiedById": "005g8000005HwEPAA0",
+    "LastModifiedDate": "2026-07-09T01:37:18.000+0000",
+    "LastReferencedDate": "2026-07-09T01:37:18.000+0000",
+    "LastViewedDate": "2026-07-09T01:37:18.000+0000",
+    "Name": "Paste Ratio",
+    "OwnerId": "005g8000005HwEPAA0",
+    "SystemModstamp": "2026-07-09T01:37:18.000+0000",
+    "type": "AttributeCategory"
+  }
+}

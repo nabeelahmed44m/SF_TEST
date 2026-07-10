@@ -1,0 +1,24 @@
+{
+  "Platform": "RLM",
+  "ObjectName": "AttributeCategory",
+  "Language": "English",
+  "Category": "PCM",
+  "ExternalParameter": "",
+  "rlmData": {
+    "Code": "STO",
+    "CreatedById": "005g8000005HwEPAA0",
+    "CreatedDate": "2026-06-30T12:10:05.000+0000",
+    "Description": "",
+    "GlobalKey__c": "938c21cb-fee5-4202-b368-ca4c40c5abd0",
+    "Id": "0v3g80000008U91AAE",
+    "IsDeleted": false,
+    "LastModifiedById": "005g8000005HwEPAA0",
+    "LastModifiedDate": "2026-07-09T01:37:19.000+0000",
+    "LastReferencedDate": "2026-07-09T01:37:19.000+0000",
+    "LastViewedDate": "2026-07-09T01:37:19.000+0000",
+    "Name": "Storage",
+    "OwnerId": "005g8000005HwEPAA0",
+    "SystemModstamp": "2026-07-09T01:37:19.000+0000",
+    "type": "AttributeCategory"
+  }
+}

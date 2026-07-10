@@ -1,0 +1,42 @@
+{
+  "Platform": "RLM",
+  "ObjectName": "AttributeDefinition",
+  "Language": "English",
+  "Category": "PCM",
+  "ExternalParameter": "",
+  "rlmData": {
+    "Code": "",
+    "CreatedById": "005g8000005HwEPAA0",
+    "CreatedDate": "2026-06-30T12:10:05.000+0000",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Screen_Size",
+    "GlobalKey__c": "bebf191e-1d84-4407-83a0-4b0fbe48acfe",
+    "Id": "0tjg8000000Cj39AAC",
+    "IsActive": true,
+    "IsDeleted": false,
+    "IsRequired": true,
+    "Label": "Screen Size",
+    "LastModifiedById": "005g8000005HwEPAA0",
+    "LastModifiedDate": "2026-07-09T01:37:22.000+0000",
+    "LastReferencedDate": "2026-07-09T01:37:28.000+0000",
+    "LastViewedDate": "2026-07-09T01:37:28.000+0000",
+    "Name": "Screen Size",
+    "OwnerId": "005g8000005HwEPAA0",
+    "Picklist": {
+      "attributes": {
+        "type": "AttributePicklist",
+        "url": "/services/data/v62.0/sobjects/AttributePicklist/0v5g8000000CjXjAAK"
+      },
+      "Name": "Display Size Picklist"
+    },
+    "PicklistId": "0v5g8000000CjXjAAK",
+    "SourceSystemIdentifier": "",
+    "SystemModstamp": "2026-07-09T01:37:22.000+0000",
+    "type": "AttributeDefinition",
+    "UnitOfMeasureId": "",
+    "ValueDescription": ""
+  }
+}

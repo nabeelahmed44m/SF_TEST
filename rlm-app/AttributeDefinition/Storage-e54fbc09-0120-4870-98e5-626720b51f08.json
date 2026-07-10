@@ -1,0 +1,42 @@
+{
+  "Platform": "RLM",
+  "ObjectName": "AttributeDefinition",
+  "Language": "English",
+  "Category": "PCM",
+  "ExternalParameter": "",
+  "rlmData": {
+    "Code": "",
+    "CreatedById": "005g8000005HwEPAA0",
+    "CreatedDate": "2026-06-30T12:10:05.000+0000",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Storage",
+    "GlobalKey__c": "e54fbc09-0120-4870-98e5-626720b51f08",
+    "Id": "0tjg8000000Cj3FAAS",
+    "IsActive": true,
+    "IsDeleted": false,
+    "IsRequired": true,
+    "Label": "Storage",
+    "LastModifiedById": "005g8000005HwEPAA0",
+    "LastModifiedDate": "2026-07-09T01:37:23.000+0000",
+    "LastReferencedDate": "2026-07-09T01:37:29.000+0000",
+    "LastViewedDate": "2026-07-09T01:37:29.000+0000",
+    "Name": "Storage",
+    "OwnerId": "005g8000005HwEPAA0",
+    "Picklist": {
+      "attributes": {
+        "type": "AttributePicklist",
+        "url": "/services/data/v62.0/sobjects/AttributePicklist/0v5g8000000CjXpAAK"
+      },
+      "Name": "Storage Picklist"
+    },
+    "PicklistId": "0v5g8000000CjXpAAK",
+    "SourceSystemIdentifier": "",
+    "SystemModstamp": "2026-07-09T01:37:23.000+0000",
+    "type": "AttributeDefinition",
+    "UnitOfMeasureId": "",
+    "ValueDescription": ""
+  }
+}

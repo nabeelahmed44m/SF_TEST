@@ -1,0 +1,42 @@
+{
+  "Platform": "RLM",
+  "ObjectName": "AttributeDefinition",
+  "Language": "English",
+  "Category": "PCM",
+  "ExternalParameter": "",
+  "rlmData": {
+    "Code": "PCR0090CD",
+    "CreatedById": "005g8000005HwEPAA0",
+    "CreatedDate": "2026-06-30T12:10:05.000+0000",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "PasteRatio",
+    "GlobalKey__c": "1e7ff5d5-8b91-483a-bcd4-771244a428a9",
+    "Id": "0tjg8000000Cj35AAC",
+    "IsActive": true,
+    "IsDeleted": false,
+    "IsRequired": false,
+    "Label": "Paste Ratio",
+    "LastModifiedById": "005g8000005HwEPAA0",
+    "LastModifiedDate": "2026-07-09T01:37:21.000+0000",
+    "LastReferencedDate": "2026-07-09T01:37:30.000+0000",
+    "LastViewedDate": "2026-07-09T01:37:30.000+0000",
+    "Name": "Paste Ratio",
+    "OwnerId": "005g8000005HwEPAA0",
+    "Picklist": {
+      "attributes": {
+        "type": "AttributePicklist",
+        "url": "/services/data/v62.0/sobjects/AttributePicklist/0v5g8000000CjXfAAK"
+      },
+      "Name": "Paste Color Ratio"
+    },
+    "PicklistId": "0v5g8000000CjXfAAK",
+    "SourceSystemIdentifier": "",
+    "SystemModstamp": "2026-07-09T01:37:21.000+0000",
+    "type": "AttributeDefinition",
+    "UnitOfMeasureId": "",
+    "ValueDescription": ""
+  }
+}
